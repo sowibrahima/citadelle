@@ -1,0 +1,9 @@
+18/10/2017
+- Études des différentes classes et méthodes à créer
+- Conception des différentes interface et classes en UML
+
+25/10/2017
+- Implémentation des interfaces et classes en Java
+
+02/10/2017
+- Optimisation de la conception pour réduire les duplications de codes
